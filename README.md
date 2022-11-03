@@ -1,7 +1,7 @@
 # About
 The Peloton web application does not display target metrics, like cadance and resistance. This bookmarklet uses the Peloton web application and API to display the target metrics. Works in cycling classes only.
 
-![Alt](https://coffeesnip.com/example.jpeg "Peloton class with target metrics")
+![Alt](https://raw.githubusercontent.com/RaVbaker/peloton_renpho_metrics/master/docs/preview.png "Peloton class with target metrics")
 
 # Metrics
 - Two resistance ranges are displayed. The first is for the Schwinn ic4 bike, the second is for Peloton (in paranthesis).
@@ -58,3 +58,4 @@ Numbers I figured out for **Renpho AI Smart bike** are as follows:
 | 36,5 | 60 |
 | 40 | 63 |
 
+(c) RaVbaker 2022
